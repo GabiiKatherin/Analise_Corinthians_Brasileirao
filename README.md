@@ -1,2 +1,9 @@
 # Analise_Corinthians_Brasileirao
 Análise de Estatísticas do Corinthians no Campeonato Brasileiro (Brasileirão) 2024/25
+
+
+Fundado em 1910 o Corinthians...
+Com uma torcida engajada...
+Após as novas contratações, espera-se que o time saia da zona de rebaixamento...
+
+Essa análise, se propõe a destacar os principais indicadores do timão no Campeonato Brasileiro.
